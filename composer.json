@@ -1,0 +1,14 @@
+{
+    "name": "imbabottech/laravel-middlewares",
+    "description": "The commonly used middlewares bundles for Laravel",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "SakuraLove",
+            "email": "1147678303@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
