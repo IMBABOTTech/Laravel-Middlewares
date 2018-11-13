@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Middlewares\\": "src/"
+            "IMBABOTTech\\LaravelMiddlewares\\Middlewares\\": "src/"
         }
     }
 }
