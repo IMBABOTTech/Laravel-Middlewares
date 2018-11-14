@@ -6,7 +6,7 @@
  * Time: 15:34
  */
 
-namespace Middlewares;
+namespace IMBABOTTech\LaravelMiddlewares\Middlewares;
 
 use Carbon\Carbon;
 use Closure;
