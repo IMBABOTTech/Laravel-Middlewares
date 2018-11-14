@@ -3,6 +3,7 @@
     "description": "The commonly used middlewares bundles for Laravel",
     "type": "library",
     "license": "MIT",
+    "version": "0.1",
     "authors": [
         {
             "name": "SakuraLove",
